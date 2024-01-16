@@ -1,0 +1,12 @@
+setting. not update in the balance
+
+
+
+https://bscscan.com/tx/0x3fec620983075702dff4fcee7545c7bab91435c3768433e229010f17e7f066cd
+https://bscscan.com/tx/0xf9d23b80cf5bfadc063dab4abe5b46aa3324965e7e4ea8d893fe012cac18439a
+https://bscscan.com/tx/0xe955c12fbf6469cbbe9cc515095c5d6c6023330ff60ad47e06f9a2c45cf05e92
+
+
+https://honeypot.is/  (buy and sell tax)
+
+dextools.io/app/bsc/pair-explorer/0xab6438778af8baaa4574cbdf1d6ddefb90499b17
